@@ -1,0 +1,31 @@
+.one {
+margin-top: 80px;
+column-count: 2;
+column-rule-width: 2px;
+column-rule-style: solid;
+column-rule-color: black;
+}
+.one h2 {
+font-size: 50px;
+background-color: black;
+color: azure;
+column-span: all;
+text-align: center;
+height: 100px;
+}
+.one img {
+position: absolute;
+top: 350px;
+right: 400px;
+height: 150px;
+width: 200px;
+}
+header {
+background-color: black;
+height: 60px;
+}
+h1 {
+color: red;
+font-size: 60px;
+text-align: center;
+}
